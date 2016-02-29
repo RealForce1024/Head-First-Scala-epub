@@ -1,3 +1,6 @@
-# My Awesome Book
+# Scala深入浅出系列 电子书
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+作者：冯琪超
+网名：鲅鱼饺子
+微信：fqc337940626
+微信公众号：鲅鱼饺子
