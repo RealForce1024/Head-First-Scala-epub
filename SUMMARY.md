@@ -1,3 +1,3 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [第一节 Scala创世纪](chapter1.md)
